@@ -20,4 +20,4 @@ A organização estará disposta a auxiliar participantes a entrar em contato co
 
 Esperamos que todas as pessoas participantes sigam estas regras em salas de apresentação e workshops da conferência, além de eventos sociais relacionados.
 
-> O código de conduta da Comunidade de API Floripa é baseado em confcodeofconduct.com.
+> O código de conduta da Comunidade de API Floripa é baseado em https://confcodeofconduct.com
